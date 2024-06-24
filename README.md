@@ -1,2 +1,2 @@
 # Lil-Farmer-Count
- Code for my Lil Farmer Count Game
+ This is quick code for my Lil Farmer Count game created for my 2 year old.
